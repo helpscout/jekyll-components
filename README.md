@@ -1,5 +1,7 @@
 # jekyll-components 🌟 [![Build Status](https://travis-ci.org/helpscout/jekyll-components.svg?branch=master)](https://travis-ci.org/helpscout/jekyll-components) [![Gem Version](https://badge.fury.io/rb/jekyll-components.svg)](https://badge.fury.io/rb/jekyll-components)
 
+## DEPRECATED: Please use [jekyll-spark](https://github.com/helpscout/jekyll-spark) instead!!!
+
 A Jekyll library for building component-based UI
 
 This library was heavily inspired by view/component creation from modern Javascript libraries like [React](https://facebook.github.io/react/) and [Vue](https://vuejs.org/).
